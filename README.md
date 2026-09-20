@@ -246,11 +246,7 @@ Lero Lero Lero
 
 <div align="center">
 
-<img
-  src="![Pac-Man contribution graph](https://raw.githubusercontent.com/Itsplay1436/Itsplay1436/output/pacman-contribution-graph.svg)t"
-  alt="Pac-Man contribution graph"
-  width="100%"
->
+![Pac-Man contribution graph](https://raw.githubusercontent.com/Itsplay1436/Itsplay1436/output/pacman-contribution-graph.svg)
 
 </div>
 
