@@ -246,17 +246,11 @@ Lero Lero Lero
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Itsplay1436/Itsplay1436/refs/heads/output/pacman-contribution-graph-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Itsplay1436/Itsplay1436/refs/heads/output/pacman-contribution-graph.svg">
-  <img
-    alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/Itsplay1436/Itsplay1436/refs/heads/output/pacman-contribution-graph.svg">
-</picture>
+<img
+  src="https://raw.githubusercontent.com/Itsplay1436/Itsplay1436/output/pacman-contribution-graph.svg"
+  alt="Pac-Man contribution graph"
+  width="100%"
+>
 
 </div>
 
