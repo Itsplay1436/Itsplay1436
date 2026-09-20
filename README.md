@@ -41,7 +41,7 @@ A longo prazo, quero me aproximar dos cenários de **Game Development** e **Cibe
 </td>
 <td width="36%" align="center" valign="middle">
 
-**[ espaço para GIF / foto ]**
+**[ fotinha lol ]**
 
 </td>
 </tr>
@@ -116,17 +116,17 @@ A longo prazo, quero me aproximar dos cenários de **Game Development** e **Cibe
 <tr>
 <td width="34%" align="center" valign="middle">
 
-**[ espaço para GIF / foto ]**
+**[ gif la ele ]**
 
 </td>
 <td width="66%" valign="top">
 
 A **cultura hip-hop** faz parte dos meus interesses desde pequeno. Curto **rap e boombap**, admiro **grafite**, já andei bastante de **skate**, arrisco alguns improvisos e pretendo aprender **break dance**.
 
-Também cresci jogando e continuo apaixonado por **jogos eletrônicos**. Gosto da liberdade de criar, explorar mundos, acompanhar histórias e tomar decisões — uma das razões pelas quais o universo de **GameDev** me chama tanta atenção.
+Também cresci jogando e continuo apaixonado por **jogos eletrônicos**. <!--Games simulação/história, brawlzinho de extra-->
 
 **🎮 Jogando / favoritos:**  
-`[ jogo ]` · `[ jogo ]` · `[ jogo ]` · `[ jogo ]`
+`[ 6 ]` · `[ 7 ]` · `[ 6 ]` · `[ 7 ]`
 
 </td>
 </tr>
@@ -141,7 +141,7 @@ Também cresci jogando e continuo apaixonado por **jogos eletrônicos**. Gosto d
 <td width="33%" align="center" valign="top">
 
 
-### 🎤 [Artista 1]
+### 🎤 [Pecaos]
 **Álbum:** `[álbum favorito]`  
 **Faixa:** `[música favorita]`
 
@@ -149,14 +149,14 @@ Também cresci jogando e continuo apaixonado por **jogos eletrônicos**. Gosto d
 <td width="33%" align="center" valign="top">
 
 
-### 🎤 [Artista 2]
+### 🎤 [Fortes]
 **Álbum:** `[álbum favorito]`  
 **Faixa:** `[música favorita]`
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🎤 [Artista 3]
+### 🎤 [Haikaiss]
 **Álbum:** `[álbum favorito]`  
 **Faixa:** `[música favorita]`
 
@@ -165,7 +165,7 @@ Também cresci jogando e continuo apaixonado por **jogos eletrônicos**. Gosto d
 </table>
 
 <details>
-<summary><b>🎵 Mais artistas / álbuns</b></summary>
+<summary><b>🎵 Mais parças / álbuns</b></summary>
 <br>
 
 | Artista | Álbum favorito | Música favorita |
@@ -187,21 +187,21 @@ Também cresci jogando e continuo apaixonado por **jogos eletrônicos**. Gosto d
 <td width="50%" valign="top">
 
 ### 🌐 Desenvolvimento Web
-`[ projeto em destaque ]`
+`[ projetao ]`
 
-Pequena descrição do projeto, tecnologias utilizadas e o que aprendi.
+W descrição aqui
 
-**Stack:** `[ HTML ]` `[ CSS ]` `[ JavaScript ]`
+**Stack:** `[ HTML ]` `[ CSS ]` `[ JavaScript ]` `[ AntiMatéria ]` 
 
 </td>
 <td width="50%" valign="top">
 
 ### 💾 Software / Sistemas
-`[ projeto em destaque ]`
+`[ projetao pt 2 ]`
 
-Pequena descrição do projeto, tecnologias utilizadas e o que aprendi.
+Lero Lero Lero
 
-**Stack:** `[ C# ]` `[ SQL ]` `[ .NET ]`
+**Stack:** `[ C# ]` `[ SQL ]` `[ .NET ]` `[ Aya ]`
 
 </td>
 </tr>
@@ -213,8 +213,8 @@ Pequena descrição do projeto, tecnologias utilizadas e o que aprendi.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Itsplay1436&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="Estatísticas do GitHub">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsplay1436&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Linguagens mais usadas">
+<!--<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Itsplay1436&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="Estatísticas do GitHub">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsplay1436&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Linguagens mais usadas">-->
 
 <br>
 
@@ -222,13 +222,13 @@ Pequena descrição do projeto, tecnologias utilizadas e o que aprendi.
 
 </div>
 
-<details>
+<!--<details>
 <summary><b>📈 Ver mapa detalhado de atividade</b></summary>
 <br>
 <div align="center">
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Itsplay1436&bg_color=00000000&color=888888&line=7c3aed&point=888888&area=true&hide_border=true&custom_title=Mapa%20de%20Contribui%C3%A7%C3%B5es" alt="Gráfico de atividade">
 </div>
-</details>
+</details>-->
 
 ---
 
@@ -236,7 +236,7 @@ Pequena descrição do projeto, tecnologias utilizadas e o que aprendi.
 
 <div align="center">
 
-**[ espaço reservado para seu Commit History personalizado ]**
+**[ Commit History ]**
 
 </div>
 
@@ -247,9 +247,15 @@ Pequena descrição do projeto, tecnologias utilizadas e o que aprendi.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itsplay1436/Itsplay1436/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itsplay1436/Itsplay1436/output/pacman-contribution-graph.svg">
-  <img width="92%" alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Itsplay1436/Itsplay1436/output/pacman-contribution-graph.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Itsplay1436/Itsplay1436/refs/heads/output/pacman-contribution-graph-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Itsplay1436/Itsplay1436/refs/heads/output/pacman-contribution-graph.svg">
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/Itsplay1436/Itsplay1436/refs/heads/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
